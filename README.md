@@ -9,7 +9,7 @@ Please!  Just fork, and submit a pull request and expand our library (within rea
 
 On PC, save the .txt file to your Documents/Paradox Interactive/Stellaris directory and allow it to overwrite your current one.
 
-Of course, if you have your own custom races, they will be destroyed by this, so you might consider opening the file up, intead, and copying out the races you are interested in, and update your own original file instead.
+Of course, if you have your own custom races, they will be destroyed by this, so you might consider opening the file up and copying out the races you are interested in, and update your own original file instead.
 
 ## Franchises
 
